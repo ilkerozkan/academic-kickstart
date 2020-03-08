@@ -1,14 +1,13 @@
 ---
 title: Posts
-
-# View.
-#   1 = List
-#   2 = Compact
-#   3 = Card
 view: 2
-
-# Optional header image (relative to `static/img/` folder).
 header:
-  caption: ""
-  image: ""
+  caption: ''
+  image: ''
+date: 2020-03-08T10:22:23.644Z
+subtitle: dgreger
+summary: erttert
+featured:
+  filename: whatsapp-image-2019-10-31-at-11.55.19.jpeg
 ---
+wertert
